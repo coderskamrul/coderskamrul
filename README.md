@@ -1,6 +1,6 @@
 ![Github Banner](github-banner.jpg)
 
-## Hi there my gorgeous friend <img src="hello.gif" width="28px" alt="hi">
+##                        Hi there my gorgeous friend <img src="hello.gif" width="28px" alt="hi">
 
 I'm kamrul, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh and Content Creator on [Youtube](https://youtube.com/). I Spend most of time coding outstanding projects or recording tutorials.
 
