@@ -12,7 +12,7 @@ I'm kamrul, a Full Stack Web Application Developer from <img src="assets/banglad
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
-:e-mail: &emsp;How to reach me: sayhitorainmaker@gmail.com.<br/>
+:e-mail: &emsp;How to reach me: mdkamrul2058@gmail.com.<br/>
 ⚡ &emsp;Fun fact: I co-founded my country's first ever and largest digital marketing agency Analyzen.
 
 #### Business
