@@ -21,4 +21,4 @@ I'm kamrul, a Full Stack Web Application Developer from <img src="assets/banglad
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=learnwithsumit.learnwithsumit)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hmdkamrul.hmdkamrul)
