@@ -1,4 +1,4 @@
-![Github Banner](about.png)
+![Github Banner](https://github.com/hmdkamrul/assets/blob/main/github-banner-update.jpg)
 
  <h1 align="center">Hi 👋, I'm Kamrul Hasan</h1>
 <h3 align="center">A passionate Front-end Developer from Bangladesh</h3>
