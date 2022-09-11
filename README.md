@@ -35,7 +35,7 @@ I'm kamrul, a Full Stack Web Application Developer from <img src="assets/banglad
     <img src="https://cp-badges.deta.dev/codechef/hmdkamrul" alt="CodeChef" />
   </a>
   <a href="https://atcoder.jp/users/hmdkamrul/">
-    <img src="https://cp-badges.deta.dev/atcoder/hmdkamrul" alt="Atcoder" />
+   <img src="https://cp-badges.deta.dev/atcoder/aburifat" alt="Atcoder" />
   </a>
   <a href="https://github.com/hmdkamrul?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/hmdkamrul?color=green&logo=github">
