@@ -37,6 +37,17 @@ I'm kamrul, a Full Stack Web Application Developer from <img src="assets/banglad
 🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
 :e-mail: &emsp;How to reach me: mdkamrul2058@gmail.com.<br/>
 
+### Profiles:
+<p align="left">
+<a href="https://codeforces.com/profile/hmdkamrul/" target="blank"><img align="center" src="src/logo/cp-logo/codeforces.png" alt="ARMaster" height="50" width="50" /></a>
+  <a href="https://leetcode.com/hmdkamrul/" target="blank"><img align="center" src="src/logo/cp-logo/leetcode.png" alt="aburifat" height="50" width="50" /></a>
+  <a href="https://codechef.com/users/hmdkamrul/" target="blank"><img align="center" src="src/logo/cp-logo/codechef.png" alt="aburifat" height="50" width="50" /></a>
+  <a href="https://lightoj.com/user/hmdkamrul/" target="blank"><img align="center" src="src/logo/cp-logo/lightoj.png" alt="abu-rifat" height="50" width="50" /></a>
+  <a href="https://www.hackerrank.com/hmdkamrul/" target="blank"><img align="center" src="src/logo/cp-logo/hackerrank.png" alt="aburifat" height="50" width="50" /></a>
+  <a href="https://atcoder.jp/users/hmdkamrul/" target="blank"><img align="center" src="src/logo/cp-logo/atcoder.png" alt="aburifat" height="50" width="50" /></a>
+  <a href="https://spoj.com/users/hmdkamrul/" target="blank"><img align="center" src="src/logo/cp-logo/spoj.jpeg" alt="abu_rifat" height="50" width="50" /></a>
+  <a href="https://uhunt.onlinejudge.org/id/889274/" target="blank"><img align="center" src="src/logo/cp-logo/uvaoj.png" alt="https://uhunt.onlinejudge.org/id/889274/" height="50" width="50" /></a>
+</p>
 
 #### Business
 
@@ -50,6 +61,5 @@ I'm kamrul, a Full Stack Web Application Developer from <img src="assets/banglad
 
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/hmdkamrul?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/hmdkamrul/cf-stats/main/output/light_card.svg" />
 </p>
 
