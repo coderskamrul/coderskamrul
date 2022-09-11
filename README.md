@@ -22,3 +22,25 @@ I'm kamrul, a Full Stack Web Application Developer from <img src="assets/banglad
 #### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hmdkamrul.hmdkamrul)
+
+#### cp Visits
+<p align="left">
+  <a href="https://leetcode.com/hmdkamrul/">
+    <img src="https://cp-badges.deta.dev/leetcode/hmdkamrul" alt="Leetcode" />
+  </a>
+  <a href="https://codeforces.com/profile/hmdkamrul">
+    <img src="https://cp-badges.deta.dev/codeforces/hmdkamrul" alt="Codeforces" />
+  </a>
+  <a href="https://codechef.com/users/hmdkamrul/">
+    <img src="https://cp-badges.deta.dev/codechef/hmdkamrul" alt="CodeChef" />
+  </a>
+  <a href="https://atcoder.jp/users/hmdkamrul/">
+    <img src="https://cp-badges.deta.dev/atcoder/hmdkamrul" alt="Atcoder" />
+  </a>
+  <a href="https://github.com/hmdkamrul?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/hmdkamrul?color=green&logo=github">
+  </a>
+  <a href="https://github.com/hmdkamrul/">
+    <img src="https://komarev.com/ghpvc/?username=hmdkamrul" alt="visitors" />
+  </a>
+</p>
