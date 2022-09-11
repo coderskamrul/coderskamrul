@@ -1,6 +1,29 @@
 ![Github Banner](https://github.com/hmdkamrul/assets/blob/main/github-banner-update.jpg)
 
- <h1 align="center">Hi 👋, I'm Kamrul Hasan</h1>
+ <h1 align="center">Hi 👋, I'm a Compatitive Programmer!</h1>
+ 
+ <p align="center">
+  <a href="https://leetcode.com/hmdkamrul/">
+    <img src="https://cp-badges.deta.dev/leetcode/hmdkamrul" alt="Leetcode" />
+  </a>
+  <a href="https://codeforces.com/profile/hmdkamrul">
+    <img src="https://cp-badges.deta.dev/codeforces/hmdkamrul" alt="Codeforces" />
+  </a>
+  <a href="https://codechef.com/users/hmdkamrul/">
+    <img src="https://cp-badges.deta.dev/codechef/hmdkamrul" alt="CodeChef" />
+  </a>
+  <a href="https://atcoder.jp/users/hmdkamrul/">
+   <img src="https://cp-badges.deta.dev/atcoder/aburifat" alt="Atcoder" />
+  </a>
+  <a href="https://github.com/hmdkamrul?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/hmdkamrul?color=green&logo=github">
+  </a>
+  <a href="https://github.com/hmdkamrul/">
+    <img src="https://komarev.com/ghpvc/?username=hmdkamrul" alt="visitors" />
+  </a>
+</p>
+
+
 <h3 align="center">A passionate Front-end Developer from Bangladesh</h3>
 
 I'm kamrul, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh and Content Creator on [Youtube](https://youtube.com/). I Spend most of time coding outstanding projects or recording tutorials.
@@ -23,24 +46,10 @@ I'm kamrul, a Full Stack Web Application Developer from <img src="assets/banglad
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hmdkamrul.hmdkamrul)
 
-#### cp Visits
-<p align="left">
-  <a href="https://leetcode.com/hmdkamrul/">
-    <img src="https://cp-badges.deta.dev/leetcode/hmdkamrul" alt="Leetcode" />
-  </a>
-  <a href="https://codeforces.com/profile/hmdkamrul">
-    <img src="https://cp-badges.deta.dev/codeforces/hmdkamrul" alt="Codeforces" />
-  </a>
-  <a href="https://codechef.com/users/hmdkamrul/">
-    <img src="https://cp-badges.deta.dev/codechef/hmdkamrul" alt="CodeChef" />
-  </a>
-  <a href="https://atcoder.jp/users/hmdkamrul/">
-   <img src="https://cp-badges.deta.dev/atcoder/aburifat" alt="Atcoder" />
-  </a>
-  <a href="https://github.com/hmdkamrul?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/hmdkamrul?color=green&logo=github">
-  </a>
-  <a href="https://github.com/hmdkamrul/">
-    <img src="https://komarev.com/ghpvc/?username=hmdkamrul" alt="visitors" />
-  </a>
+### CP Progress:
+
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/hmdkamrul?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/hmdkamrul/cf-stats/main/output/light_card.svg" />
 </p>
+
