@@ -66,6 +66,7 @@ I'm kamrul, a Full Stack Web Application Developer from <img src="assets/banglad
 #### Certifications
 
 <code><img height= "60" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/CSS%20Certificate.png"></code>
+<code><img height= "60" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/ICPC%202022.jpeg"></code>
 
 ---
 
