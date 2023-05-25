@@ -65,13 +65,14 @@ I'm kamrul, a Full Stack Web Application Developer from <img src="assets/banglad
 
 #### Certifications
 
-<code><img height= "60" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/CSS%20Certificate.png"></code>
-<code><img height= "60" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/ICPC%202022.jpeg"></code>
-<code><img height= "60" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/Intra%20programming%20contest%202021.jpeg"></code>
-<code><img height= "60" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/Intra%20programming%20contest%202022.jpeg"></code>
-<code><img height= "60" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/Language%20C%20Trainer%20Certificate.jpeg"></code>
-<code><img height= "60" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/Mentor_Certificates.jpeg"></code>
-<code><img height= "60" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/Book%20Reading.jpeg"></code>
+<code><img height= "70" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/CSS%20Certificate.png"></code>
+<code><img height= "70" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/ICPC%202022.jpeg"></code>
+<code><img height= "70" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/UITS%20Contest%20Certificate.jpeg"></code>
+<code><img height= "70" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/Intra%20programming%20contest%202021.jpeg"></code>
+<code><img height= "70" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/Intra%20programming%20contest%202022.jpeg"></code>
+<code><img height= "70" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/Language%20C%20Trainer%20Certificate.jpeg"></code>
+<code><img height= "70" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/Mentor_Certificates.jpeg"></code>
+<code><img height= "70" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/Book%20Reading.jpeg"></code>
 
 
 
