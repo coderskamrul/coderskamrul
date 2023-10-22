@@ -19,7 +19,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="32px" alt="CodePen" title="codepen" src="./img/codepen.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="32px" alt="StacoverFlow" title="StacoverFlow" src="./img/stac.PNG"/></a>
+  <a href="#"><img width="32px" alt="StacoverFlow" title="StacoverFlow" src="./img/stac.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://medium.com/@naemazam"><img width="32px" alt="Medium" title="Medium" src="./img/medium%20(2).png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -29,6 +29,24 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.patreon.com/theterminalboy"><img width="32px" alt="Paid Stuff" title="pareon" src="https://img.icons8.com/color/48/000000/patreon.png"/></a>
 </p>
+
+
+<!-- social -->
+ <p align="center">
+  <a href="https://twitter.com/naemazamankon" alt="Twitter"><img width="32px" src="./img/twitter.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#" alt="LinkedIN"><img width="32px" src="./img/linked.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.facebook.com/naemazamchowdhury" alt="FaceBook"><img width="32px" src="./img/fb.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#" alt="Instagram"><img width="32px" src="./img/insta.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#" alt="Discord"><img width="32px" src="./img/discord-48.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+
+
 
 
 
@@ -60,42 +78,155 @@
 
 I'm kamrul, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh and Content Creator on [Youtube](https://youtube.com/). I Spend most of time coding outstanding projects or recording tutorials.
 
-:coffee: &emsp;Connect with me!
-
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/coderskamrul) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coderskamrul/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/coderskamrul) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/coderskamrul) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdkamrul2058@gmail.com)
-
+<br>
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
 :e-mail: &emsp;How to reach me: mdkamrul2058@gmail.com.<br/>
 
-### Profiles:
-<p align="left">
-<a href="https://codeforces.com/profile/hmdkamrul/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/lightoj.png" alt="hmdkamrul" height="50" width="50" /></a>
-  <a href="https://leetcode.com/hmdkamrul/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/leetcode.png" alt="hmdkamrul" height="50" width="50" /></a>
-  <a href="https://codechef.com/users/hmdkamrul/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/codechef.png" alt="hmdkamrul" height="50" width="50" /></a>
-  <a href="https://lightoj.com/user/hmdkamrul/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/lightoj.png" alt="hmdkamrul" height="50" width="50" /></a>
-  <a href="https://www.hackerrank.com/hmdkamrul/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/hackerrank.png" alt="hmdkamrul" height="50" width="50" /></a>
-  <a href="https://atcoder.jp/users/hmdkamrul/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/atcoder.png" alt="hmdkamrul" height="50" width="50" /></a>
-  <a href="https://spoj.com/users/hmdkamrul/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/spoj.jpeg" alt="hmdkamrul" height="50" width="50" /></a>
-  <a href="https://uhunt.onlinejudge.org/id/889274/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/uvaoj.png" alt="https://uhunt.onlinejudge.org/id/889274/" height="50" width="50" /></a>
-</p>
-
 #### Business
 
 :email: &emsp;mdkamrul2058@gmail.com
 
-#### Profile Visits
+<h2 align="left" id="naemazam">Dev-Hub</h2>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hmdkamrul.hmdkamrul)
+> Progamming languages
 
-### CP Progress:
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/bash.png" width="48" height="48" alt="#" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/c.png" width="48" height="48" alt="c" />
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="/img/c++.png" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>C++
+    </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="./img/html.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>HTML
+    </td>
+         <td align="center" width="96">
+      <a href="#">
+        <img src="./img/php.png" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
+    </td>
+  </tr>
+</table>
 
-<p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/hmdkamrul?theme=light&font=Karma&ext=contest" />
-</p>
+> Frameworks and libraries
 
-#### Certifications
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="img/react-original.svg" width="48" height="48" alt="react" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/github.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>GitHub-Action
+    </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="./img/wordpress.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Wordpress
+    </td>
+    </tr>
+</table>
+
+> Databases and cloud hosting
+
+<table>
+  <tr>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="./img/sql.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/mysql-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>my-sql
+    </td>
+    </tr>
+</table>
+
+> Software and tools
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/anaconda.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Anaconda
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/git.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="./img/p.png" width="48" height="48" alt="Proteus" />
+      </a>
+      <br>Proteus
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/vs.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Visual Studio
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/jnote.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Jupyter Notebook
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/sublime.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Sublime
+    </td>
+    </tr>
+</table>
+
+
+> Certifications
 
 <code><img height= "70" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/CSS%20Certificate.png"></code>
 <code><img height= "70" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/ICPC%202022.jpeg"></code>
@@ -107,6 +238,16 @@ I'm kamrul, a Full Stack Web Application Developer from <img src="assets/banglad
 <code><img height= "70" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/Book%20Reading.jpeg"></code>
 
 
-
+> Profiles:
+<p align="left">
+<a href="https://codeforces.com/profile/hmdkamrul/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/lightoj.png" alt="hmdkamrul" height="50" width="50" /></a>
+  <a href="https://leetcode.com/hmdkamrul/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/leetcode.png" alt="hmdkamrul" height="50" width="50" /></a>
+  <a href="https://codechef.com/users/hmdkamrul/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/codechef.png" alt="hmdkamrul" height="50" width="50" /></a>
+  <a href="https://lightoj.com/user/hmdkamrul/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/lightoj.png" alt="hmdkamrul" height="50" width="50" /></a>
+  <a href="https://www.hackerrank.com/hmdkamrul/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/hackerrank.png" alt="hmdkamrul" height="50" width="50" /></a>
+  <a href="https://atcoder.jp/users/hmdkamrul/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/atcoder.png" alt="hmdkamrul" height="50" width="50" /></a>
+  <a href="https://spoj.com/users/hmdkamrul/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/spoj.jpeg" alt="hmdkamrul" height="50" width="50" /></a>
+  <a href="https://uhunt.onlinejudge.org/id/889274/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/uvaoj.png" alt="https://uhunt.onlinejudge.org/id/889274/" height="50" width="50" /></a>
+</p>
 ---
 
