@@ -76,18 +76,26 @@
 
 <h3 align="center">A passionate Front-end Developer from Bangladesh</h3>
 
-I'm kamrul, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh and Content Creator on [Youtube](https://youtube.com/). I Spend most of time coding outstanding projects or recording tutorials.
+I'm kamrul, a Full Stack Web Application Developer from Bangladesh and Content Creator on [Youtube](https://youtube.com/). I Spend most of time coding outstanding projects or recording tutorials. In terms of experience, I have served as a Programming Trainer & Mentor and Assistant Manager of Programming at IUBAT Society. During my time there from March 2021 to April 2022, I trained students in basic programming languages like C and C++ and conducted intermediate problem-solving sessions. Additionally, I organized programming contests to motivate students and served as a judge and problem setter in prestigious contests.
+
+Throughout my academic journey, I have participated in various programming contests and achieved notable accomplishments. I have excelled in intra and inter-university programming contests, including the ICPC Asia Dhaka Regional Contest and the International Tech Carnival Programming Contest.
+
+I have a strong command of programming languages such as C, C++, C#, Java, Python, PHP, and JavaScript. I am proficient in concepts related to Data Structures and Algorithms (DSA) and Object-Oriented Programming (OOP). Additionally, I have hands-on experience with technologies and tools like HTML, CSS, Bootstrap, jQuery, React Js, MySQL, Tailwind CSS, and WordPress.
 
 <br>
+  <img align="right" alt="GIF" src="https://bayanbox.ir/view/1353559592827697052/programmer.gif?raw=true" width="500" height="320" />
+    <br/>
+
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
-🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
+🤔 &emsp;I’m looking for .....<br/>
 :e-mail: &emsp;How to reach me: mdkamrul2058@gmail.com.<br/>
 
 #### Business
 
 :email: &emsp;mdkamrul2058@gmail.com
-
+ <br/>
+  <br/>
 <h2 align="left" id="naemazam">Dev-Hub</h2>
 
 > Progamming languages
