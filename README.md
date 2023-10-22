@@ -23,9 +23,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://medium.com/@naemazam"><img width="32px" alt="Medium" title="Medium" src="./img/medium%20(2).png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/naemazam"><img width="32px" alt="Dev.to" title="naem dev" src="./img/dev-32.png"></a>
+  <a href="https://dev.to/"><img width="32px" alt="Dev.to" title="naem dev" src="./img/dev-32.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.buymeacoffee.com/theterminalboy"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./img/coffee.png"/></a>
+  <a href="https://www.buymeacoffee.com/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./img/coffee.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.patreon.com/theterminalboy"><img width="32px" alt="Paid Stuff" title="pareon" src="https://img.icons8.com/color/48/000000/patreon.png"/></a>
 </p>
@@ -33,13 +33,13 @@
 
 <!-- social -->
  <p align="center">
-  <a href="https://twitter.com/naemazamankon" alt="Twitter"><img width="32px" src="./img/twitter.png"/></a>
+  <a href="https://twitter.com/coderskamrul" alt="Twitter"><img width="32px" src="./img/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" alt="LinkedIN"><img width="32px" src="./img/linked.png"/></a>
+  <a href="https://www.linkedin.com/in/coderskamrul/" alt="LinkedIN"><img width="32px" src="./img/linked.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/naemazamchowdhury" alt="FaceBook"><img width="32px" src="./img/fb.png"/></a>
+  <a href="https://www.facebook.com/coderskamrul" alt="FaceBook"><img width="32px" src="./img/fb.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" alt="Instagram"><img width="32px" src="./img/insta.png"/></a>
+  <a href="https://www.instagram.com/coderskamrul/" alt="Instagram"><img width="32px" src="./img/insta.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#" alt="Discord"><img width="32px" src="./img/discord-48.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
