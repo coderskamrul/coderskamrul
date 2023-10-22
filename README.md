@@ -1,12 +1,39 @@
 
-<h3 align="center">
-  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="500" height="500">
-</h3>
+<p align="center">
+   <img src="https://github.com/coderskamrul/coderskamrul/blob/main/programmer.gif">
+</p>
+ 
+
 
 
 
  <h1 align="center">Hi 👋, I'm a Compatitive Programmer!</h1>
- 
+
+  <!-- platfrom -->
+ <p align="center">
+  <a href="https://www.youtube.com/channel/UCTE1zfR8xpBXqgjvOgH0Nfw"><img width="32px" alt="Youtube" title="Youtube" src="./img/yutube.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="#"><img width="32px" alt="bilibili" title="Bilibili" src="./img/bilibili.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://github.com/naemazam/HackerRank-Solutions"><img width="32px" alt="hacker Rank" title="Hackerrank" src="./img/hr.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#"><img width="32px" alt="CodePen" title="codepen" src="./img/codepen.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#"><img width="32px" alt="StacoverFlow" title="StacoverFlow" src="./img/stac.PNG"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://medium.com/@naemazam"><img width="32px" alt="Medium" title="Medium" src="./img/medium%20(2).png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/naemazam"><img width="32px" alt="Dev.to" title="naem dev" src="./img/dev-32.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.buymeacoffee.com/theterminalboy"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./img/coffee.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.patreon.com/theterminalboy"><img width="32px" alt="Paid Stuff" title="pareon" src="https://img.icons8.com/color/48/000000/patreon.png"/></a>
+</p>
+
+
+
+
+   <!--
  <p align="center">
   <a href="https://leetcode.com/hmdkamrul/">
     <img src="https://cp-badges.deta.dev/leetcode/hmdkamrul" alt="Leetcode" />
@@ -27,7 +54,7 @@
     <img src="https://komarev.com/ghpvc/?username=hmdkamrul" alt="visitors" />
   </a>
 </p>
-
+-->
 
 <h3 align="center">A passionate Front-end Developer from Bangladesh</h3>
 
