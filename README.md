@@ -1,4 +1,9 @@
-![Github Banner](https://github.com/hmdkamrul/assets/blob/main/github-banner-update.jpg)
+
+<h3 align="center">
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="500" height="500">
+</h3>
+
+
 
  <h1 align="center">Hi 👋, I'm a Compatitive Programmer!</h1>
  
