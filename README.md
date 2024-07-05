@@ -1,12 +1,4 @@
 
-<p align="center">
-   <img src="https://github.com/coderskamrul/coderskamrul/blob/main/programmer.gif">
-</p>
- 
-
-
-
-
  <h1 align="center">Hi 👋, I'm a Compatitive Programmer!</h1>
 
   <!-- platfrom -->
