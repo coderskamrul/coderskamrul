@@ -83,7 +83,7 @@ Throughout my academic journey, I have participated in various programming conte
 I have a strong command of programming languages such as C, C++, C#, Java, Python, PHP, and JavaScript. I am proficient in concepts related to Data Structures and Algorithms (DSA) and Object-Oriented Programming (OOP). Additionally, I have hands-on experience with technologies and tools like HTML, CSS, Bootstrap, jQuery, React Js, MySQL, Tailwind CSS, and WordPress.
 
 <br>
-  <img align="right" alt="GIF" src="https://bayanbox.ir/view/1353559592827697052/programmer.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="" width="500" height="320" />
     <br/>
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
