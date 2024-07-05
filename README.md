@@ -233,30 +233,8 @@ I have a strong command of programming languages such as C, C++, C#, Java, Pytho
     </tr>
 </table>
 
+### 📈 GitHub Activity Graph:
+[![Nafiul Github Activity Graph (Light Theme)](https://github-readme-activity-graph.vercel.app/graph?username=coderskamrul&bg_color=18dc5a&color=000000&line=000000&point=000000&area=true&hide_border=true)](#gh-dark-mode-only)
+[![Nafiul Github Activity Graph (Dark Theme)](https://github-readme-activity-graph.vercel.app/graph?username=coderskamrul&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](#gh-light-mode-only)
 
-> Certifications
-
-<code><img height= "70" alt="certified scrum master" src="https://github.com/coderskamrul/coderskamrul/blob/main/img/icpc%202023%20certificate.jpg"></code>
-<code><img height= "70" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/ICPC%202022.jpeg"></code>
-<code><img height= "70" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/CSS%20Certificate.png"></code>
-<code><img height= "70" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/UITS%20Contest%20Certificate.jpeg"></code>
-<code><img height= "70" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/Intra%20programming%20contest%202021.jpeg"></code>
-<code><img height= "70" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/Intra%20programming%20contest%202022.jpeg"></code>
-<code><img height= "70" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/Language%20C%20Trainer%20Certificate.jpeg"></code>
-<code><img height= "70" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/Mentor_Certificates.jpeg"></code>
-<code><img height= "70" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/Book%20Reading.jpeg"></code>
-
-
-> Profiles:
-<p align="left">
-<a href="https://codeforces.com/profile/hmdkamrul/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/lightoj.png" alt="hmdkamrul" height="50" width="50" /></a>
-  <a href="https://leetcode.com/hmdkamrul/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/leetcode.png" alt="hmdkamrul" height="50" width="50" /></a>
-  <a href="https://codechef.com/users/hmdkamrul/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/codechef.png" alt="hmdkamrul" height="50" width="50" /></a>
-  <a href="https://lightoj.com/user/hmdkamrul/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/lightoj.png" alt="hmdkamrul" height="50" width="50" /></a>
-  <a href="https://www.hackerrank.com/hmdkamrul/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/hackerrank.png" alt="hmdkamrul" height="50" width="50" /></a>
-  <a href="https://atcoder.jp/users/hmdkamrul/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/atcoder.png" alt="hmdkamrul" height="50" width="50" /></a>
-  <a href="https://spoj.com/users/hmdkamrul/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/spoj.jpeg" alt="hmdkamrul" height="50" width="50" /></a>
-  <a href="https://uhunt.onlinejudge.org/id/889274/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/uvaoj.png" alt="https://uhunt.onlinejudge.org/id/889274/" height="50" width="50" /></a>
-</p>
----
 
