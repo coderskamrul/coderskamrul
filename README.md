@@ -77,8 +77,7 @@ I am a passionate software engineer with over a year of experience in developing
 **B.Sc. in Computer Science & Engineering**  - International University of Business Agriculture and Technology | Dhaka, Bangladesh
 
 ## 💼 Experience
-**Jr. Software Engineer at WPXPO**  
-*July 2023 – Present*
+**Jr. Software Engineer at WPXPO**  -- *July 2023 – Present*
 - Collaborated with cross-functional teams to ensure successful project delivery.
 - Focused on creating efficient and user-friendly software to meet client needs.
 - Ensured optimal performance and maintainability through best coding practices and continuous integration.
@@ -87,7 +86,13 @@ I am a passionate software engineer with over a year of experience in developing
 
 ## 🏆 Achievements
 - **ICPC Asia West Finalist**
-- **1st Runner-Up** in multiple programming contests at IUBAT and UITS.
+
+  #### 🏆 1st Runner-Up
+- Intra University Programming Contest, Summer - 2022, IUBAT. Team - Paratroopers
+- Intra University Programming Contest, Fall - 2021, IUBAT. Team - IUBATPaRatRUPERS
+- UITS Collaboration Programming Contest, Fall – 2023, UITS. Team - IUBATStrongBrot1
+- IUBAT Good Bye 2022 Programming Contest, Fall - 2023, IUBAT
+
 - Participated in various ICPC contests, contributing to team success.
 
 ## 📚 Co-Curricular Activities
@@ -99,25 +104,6 @@ I am a passionate software engineer with over a year of experience in developing
 **Problem-Setter & Organizer**
 - Judge & Problem Setter for NGPC Girls Selection and Monthly Contest at IUBAT, 2022 & 2023.
 - Organized several programming contests to motivate students in problem-solving.
-
-## 🛠️ Projects & Research
-### [React Organizational Service Provider](#) (Try It)
-- **Technologies Used:** HTML, CSS, Bootstrap, JavaScript, ReactJS, NodeJS, Firebase, Stripe.
-- Implemented Admin and User Panels for managing users and orders, with secure payments via Stripe.
-- Enabled auto-generation of user profiles and real-time order tracking.
-
-### [React Personal Portfolio](#) (Try It)
-- **Technologies Used:** HTML, CSS, Bootstrap, JavaScript, ReactJS, NodeJS.
-- Integrated email functionality to allow users to send messages directly from the portfolio.
-- Designed a clean, professional interface to showcase skills and projects.
-
-### [Hostel Management System](#) (Try It)
-- **Technologies Used:** Java, JavaFX, MySQL.
-- Developed a feature-rich application with admin and user panels, secure login, and payment processing.
-
-### [Image Reconstruction Research](#) (Try It)
-- Proposed GFP-GAN leveraging pre-trained face GANs for enhanced facial detail and color restoration.
-- Achieved superior performance in restoring images with improved clarity.
 
 ## 💡 Problem Solving Experience
 - **Codeforces:** 1000+ problems solved; participated in 100+ rated contests (Max rating: 1325).
