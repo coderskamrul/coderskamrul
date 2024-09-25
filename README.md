@@ -3,23 +3,23 @@
 
   <!-- platfrom -->
  <p align="center">
-  <a href="https://www.youtube.com/channel/UCTE1zfR8xpBXqgjvOgH0Nfw"><img width="32px" alt="Youtube" title="Youtube" src="./img/yutube.png"/></a>
+  <a href="https://www.youtube.com/@coderskamrul"><img width="32px" alt="Youtube" title="Youtube" src="./img/yutube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="#"><img width="32px" alt="bilibili" title="Bilibili" src="./img/bilibili.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/naemazam/HackerRank-Solutions"><img width="32px" alt="hacker Rank" title="Hackerrank" src="./img/hr.png"/></a>
+  <a href="https://www.hackerrank.com/profile/hmdkamrul"><img width="32px" alt="hacker Rank" title="Hackerrank" src="./img/hr.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="32px" alt="CodePen" title="codepen" src="./img/codepen.png"/></a>
+  <a href="https://codepen.io/coderskamrul"><img width="32px" alt="CodePen" title="codepen" src="./img/codepen.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="32px" alt="StacoverFlow" title="StacoverFlow" src="./img/stac.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@naemazam"><img width="32px" alt="Medium" title="Medium" src="./img/medium%20(2).png"/></a>
+  <a href="https://medium.com/@coderskamrul"><img width="32px" alt="Medium" title="Medium" src="./img/medium%20(2).png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/"><img width="32px" alt="Dev.to" title="naem dev" src="./img/dev-32.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.buymeacoffee.com/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./img/coffee.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.patreon.com/theterminalboy"><img width="32px" alt="Paid Stuff" title="pareon" src="https://img.icons8.com/color/48/000000/patreon.png"/></a>
+  <a href="https://www.patreon.com/"><img width="32px" alt="Paid Stuff" title="pareon" src="https://img.icons8.com/color/48/000000/patreon.png"/></a>
 </p>
 
 
@@ -75,7 +75,7 @@ Throughout my academic journey, I have participated in various programming conte
 I have a strong command of programming languages such as C, C++, C#, Java, Python, PHP, and JavaScript. I am proficient in concepts related to Data Structures and Algorithms (DSA) and Object-Oriented Programming (OOP). Additionally, I have hands-on experience with technologies and tools like HTML, CSS, Bootstrap, jQuery, React Js, MySQL, Tailwind CSS, and WordPress.
 
 <br>
-  <img align="right" alt="GIF" src="" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/coderskamrul/coderskamrul/blob/main/img/Programmer-PNG-Photo-Image.png" width="500" height="320" />
     <br/>
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
