@@ -66,13 +66,72 @@
 </p>
 -->
 
-<h3 align="center">A passionate Front-end Developer from Bangladesh</h3>
+<h3 align="center">A Passionate Full Stack Software Engineer from Bangladesh</h3>
 
-I'm kamrul, a Full Stack Web Application Developer from Bangladesh and Content Creator on [Youtube](https://youtube.com/). I Spend most of time coding outstanding projects or recording tutorials. In terms of experience, I have served as a Programming Trainer & Mentor and Assistant Manager of Programming at IUBAT Society. During my time there from March 2021 to April 2022, I trained students in basic programming languages like C and C++ and conducted intermediate problem-solving sessions. Additionally, I organized programming contests to motivate students and served as a judge and problem setter in prestigious contests.
 
-Throughout my academic journey, I have participated in various programming contests and achieved notable accomplishments. I have excelled in intra and inter-university programming contests, including the ICPC Asia Dhaka Regional Contest and the International Tech Carnival Programming Contest.
 
-I have a strong command of programming languages such as C, C++, C#, Java, Python, PHP, and JavaScript. I am proficient in concepts related to Data Structures and Algorithms (DSA) and Object-Oriented Programming (OOP). Additionally, I have hands-on experience with technologies and tools like HTML, CSS, Bootstrap, jQuery, React Js, MySQL, Tailwind CSS, and WordPress.
+I am a passionate software engineer with over a year of experience in developing scalable web applications. I specialize in creating user-friendly interfaces and implementing efficient back-end solutions. With a strong foundation in programming languages and frameworks, I am committed to delivering high-quality software that meets client needs. My experience includes collaborating with cross-functional teams and mentoring aspiring programmers.
+
+
+## 🎓 Education
+**B.Sc. in Computer Science & Engineering**  - International University of Business Agriculture and Technology | Dhaka, Bangladesh
+
+## 💼 Experience
+**Jr. Software Engineer at WPXPO**  
+*July 2023 – Present*
+- Collaborated with cross-functional teams to ensure successful project delivery.
+- Focused on creating efficient and user-friendly software to meet client needs.
+- Ensured optimal performance and maintainability through best coding practices and continuous integration.
+- Collaborated with back-end engineers to design APIs for seamless front-end implementation.
+- Utilized a diverse tech stack including HTML, CSS, SCSS, Tailwind CSS, JavaScript, ReactJS, TypeScript, NodeJS, PHP, MongoDB, and MySQL.
+
+## 🏆 Achievements
+- **ICPC Asia West Finalist**
+- **1st Runner-Up** in multiple programming contests at IUBAT and UITS.
+- Participated in various ICPC contests, contributing to team success.
+
+## 📚 Co-Curricular Activities
+**Programming Trainer & Mentor**
+- Assistant Manager of Programming, IUBAT Society (March 2021-April 2022).
+- Trainer of Basic Language Sessions (C, C++).
+- Competitive Programming Instructor at Shohoj Coding Online Platform.
+
+**Problem-Setter & Organizer**
+- Judge & Problem Setter for NGPC Girls Selection and Monthly Contest at IUBAT, 2022 & 2023.
+- Organized several programming contests to motivate students in problem-solving.
+
+## 🛠️ Projects & Research
+### [React Organizational Service Provider](#) (Try It)
+- **Technologies Used:** HTML, CSS, Bootstrap, JavaScript, ReactJS, NodeJS, Firebase, Stripe.
+- Implemented Admin and User Panels for managing users and orders, with secure payments via Stripe.
+- Enabled auto-generation of user profiles and real-time order tracking.
+
+### [React Personal Portfolio](#) (Try It)
+- **Technologies Used:** HTML, CSS, Bootstrap, JavaScript, ReactJS, NodeJS.
+- Integrated email functionality to allow users to send messages directly from the portfolio.
+- Designed a clean, professional interface to showcase skills and projects.
+
+### [Hostel Management System](#) (Try It)
+- **Technologies Used:** Java, JavaFX, MySQL.
+- Developed a feature-rich application with admin and user panels, secure login, and payment processing.
+
+### [Image Reconstruction Research](#) (Try It)
+- Proposed GFP-GAN leveraging pre-trained face GANs for enhanced facial detail and color restoration.
+- Achieved superior performance in restoring images with improved clarity.
+
+## 💡 Problem Solving Experience
+- **Codeforces:** 1000+ problems solved; participated in 100+ rated contests (Max rating: 1325).
+- **Codechef:** 110+ problems solved; Max rating: 1627 (3-star).
+- **Leetcode:** 100+ problems solved.
+
+## ⚙️ Skills
+- **Programming Languages:** C, C++, C#, Java, Python, PHP, JavaScript, TypeScript.
+- **Technologies & Tools:** HTML, CSS, SCSS, Bootstrap, jQuery, ReactJS, MySQL, MongoDB, Tailwind CSS.
+- **Leadership & Others:** Proficient in communication, management, and organizing events.
+
+---
+
+Feel free to reach out via email or check out my projects on GitHub!
 
 <br>
   <img align="right" alt="GIF" src="https://github.com/coderskamrul/coderskamrul/blob/main/img/Programmer-PNG-Photo-Image.png" width="500" height="320" />
@@ -81,11 +140,9 @@ I have a strong command of programming languages such as C, C++, C#, Java, Pytho
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 🤔 &emsp;I’m looking for .....<br/>
-:e-mail: &emsp;How to reach me: mdkamrul2058@gmail.com.<br/>
+:e-mail: &emsp;How to reach me: [![Email](https://img.shields.io/badge/Email-mdkamrul2058@gmail.com-blue)](mailto:mdkamrul2058@gmail.com)
+<br/>
 
-#### Business
-
-:email: &emsp;mdkamrul2058@gmail.com
  <br/>
   <br/>
 
