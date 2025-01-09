@@ -77,7 +77,7 @@ I am a passionate software engineer with over a year of experience in developing
 **B.Sc. in Computer Science & Engineering**  - International University of Business Agriculture and Technology | Dhaka, Bangladesh
 
 ## 💼 Experience
-**Jr. Software Engineer at WPXPO**  -- *July 2023 – Present*
+**Software Engineer at WPXPO**  -- *July 2023 – Present*
 - Collaborated with cross-functional teams to ensure successful project delivery.
 - Focused on creating efficient and user-friendly software to meet client needs.
 - Ensured optimal performance and maintainability through best coding practices and continuous integration.
